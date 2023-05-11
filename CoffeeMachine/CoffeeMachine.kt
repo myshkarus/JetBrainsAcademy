@@ -1,4 +1,4 @@
-package machine
+package coffeemachine
 
 enum class Coffee(val coffeeDrink: String, val water: Int, val milk: Int, val coffeeBeans: Int, val price: Int) {
     ESPRESSO("Espresso", 250, 0, 16, 4),

@@ -1,3 +1,5 @@
+package tictactoe
+
 const val EMPTY = " "
 const val FIRST = "X"
 const val SECOND = "O"
